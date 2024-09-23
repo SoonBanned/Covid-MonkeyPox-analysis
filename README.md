@@ -2,6 +2,12 @@
 
 This repository aims to perform basic statistical analysis based on two datasets.
 
+## Plots Description
+
+1. **Logged Cumulative Cases**: This plot shows the logged cumulative cases around the world for Monkeypox and Covid-19.
+2. **Total Cases per Country Before PHEIC**: This plot displays the total cases per country before the Public Health Emergency of International Concern (PHEIC) declaration.
+
+
 ## Sources
 
 ### Covid Dataset
